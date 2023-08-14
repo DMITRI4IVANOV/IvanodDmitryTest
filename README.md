@@ -1,4 +1,5 @@
 # Задания
+выполнены на Java 11
 
 
 1. [x] [Составить алгоритм: если введенное число больше 7, то вывести “Привет”](https://github.com/DMITRI4IVANOV/IvanodDmitryTest/blob/main/src/main/java/Hello.java)
